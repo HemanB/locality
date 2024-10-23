@@ -43,4 +43,4 @@ time ./sumarray3dnew
 
 As usual, use git to fork and clone, then add, commit, and push your modified `sumarray3dnew.c`.
 
-Answer the questions on gradescope about these programs.
+There is no submit button on gradescope for this lab.   Instead, answer the questions on gradescope about these programs.
