@@ -13,7 +13,7 @@ int sumarray3d(int a[N][N][N])
     for (i = 0; i < N; i++) {
 	    for (j = 0; j < N; j++) {
 	        for (k = 0; k < N; k++) {
-		        sum += a[k][i][j];
+		        sum += a[i][j][k];
 	        }
 	    }
     }
